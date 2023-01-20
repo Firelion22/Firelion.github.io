@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Spin-off of "Project: Recipe book"</title>
+        <meta charset="utf-8">
+        <style>
+        h1 {
+            color: rgb(87, 87, 150);
+        }
+        h2 {
+            color: rgb(242, 56, 109);
+        }
+       #HELLO {
+           color:rgb(255, 221, 51);
+       }         
+        
+        #Dog-happy  {
+            color:rgb(80, 207, 150);
+        } 
+        </style>
+    </head>
+    <body>
+       
+        <h1>Stargazer's Recipe Book</h1>
+        
+        <h2 id="HELLO">Contents:</h2>
+        
+        <ol>
+            <li><a href="https://www.allrecipes.com/recipe/25642/white-chocolate-raspberry-cheesecake/">
+Recipe #1</a></li>
+        </ol>
+        
+        <h2 id="HELLO">Recipe #1: <em>Magic recipe</em></h2>
+        
+        <ul>
+            <li>Time: As much as you want!</li>
+            <li>Serves: Trillions
+                
+        
+
+            
+        </li>
+         
+         <p><strong>This is actually all true. You can          take whatever amount of time you want on              a lot of things you do.</strong></p>
+            
+            
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+            <tr>
+              <td>
+              Fairy Dust
+              </td>  
+               <td>
+              1/4+-(Know that the more Fairy Dust you 
+              put into it, the more likely you wil 
+              float.)
+              </td>              
+            <tr>    
+             <td>
+              Crystallised Sunlight
+             </td>
+            
+            <td>
+              2 teaspoons
+             </td>    
+            </tr>  
+            
+            </tr> 
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong> Time for <em>magic.</em></p>
+      
+    <p><em>Always try and make some homemade magic
+    (Flame Suger, WaterFlower Petals, Sun Salt, 
+    ect) when you can, I think that tasts best!</em
+    ></p>
+      
+      <p><strong>Step 2:</strong> Look at the recipe
+      ...Think...Think...Think...Think...POOF.</p>
+    
+    <p><strong>Step 3:</strong> DONE. Good job!! You 
+    finished that in <em>recored time!</em> Chill and 
+    relax knowing your awesome!</p>
+
+  <p><em>Source: <a href="https://www.allrecipes.com/recipes/1592/everyday-cooking/gourmet/">Some <em>awsome </em>recipes</a></em></p>
+
+    
+    </body>
+
+    <head>
+        <title>Project: Recipe book</title>
+        <meta charset="utf-8">
+        <style>
+        </style>
+    </head>
+    <body>
+       
+
+        
+        <h2>Contents:</h2>
+        
+        <ol>
+            <li><a href="https://www.halfbakedharvest.com/chocolate-sheet-cake/">
+<strong>Recipe #2</strong></a></li>
+        </ol>
+        
+        <h2>Recipe #2: non magic</h2>
+        
+        <ul>
+            <li>Time in minutes: <strong>hundreds</strong> </li>
+            <li>Serves: <strong>Billions</strong> </li>
+     
+            
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+               
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+            <tr>
+              <td>
+             <strong>Chocolate(SO MUCH CHOCOLATE!!!)</strong>
+              </td>  
+               <td>
+             1 <em>Million</em> cups
+              </td>              
+            <tr>    
+             <td>
+              Salt
+             </td>
+            
+            <td>
+              200 teaspoons
+             </td>    
+            </tr>  
+            <tr>
+              <td>
+             Flour
+              </td>  
+               <td>
+        A coulple <em>thousand</em> cups
+              </td>  
+                
+            </tr>
+            </tr> 
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong> Look at the <em>recipe</em>.</p>
+      
+    
+      
+      <p><strong>Step 2:</strong> Do the <em>mixing stuff</em></p>
+    
+    <p><strong>Step 3:</strong> Put it in <em>the oven</em></p>
+ 
+ <p><strong>Step 3:</strong> Open the oven and...<strong>KABOOM</strong>...Done...... and wow that smells good!!!</p> 
+  
+  <p><em>Source: <a href="https://www.huffpost.com/entry/50-best-dessert-recipes_n_561e61d5e4b028dd7ea5ddc0"> A few <em>Crazy </em>recipes</a></em></p>
+
+    
+    </body>
+
+    
+   
+    <head>
+        <title>Project: Recipe book</title>
+        <meta charset="utf-8">
+        <style>
+        </style>
+    </head>
+    <body>
+       
+
+        
+        <h2 id="Dog-happy">Contents:</h2>
+        
+        <ol>
+            <li><a href="https://www.allrecipes.com/recipe/141949/doggie-birthday-cake/">
+<strong>Recipe #3</strong></a></li>
+        </ol>
+        
+        <h2 id="Dog-happy">Recipe #3: Dog B-day!</h2>
+        <p>FYI, this is the ONLY real recipe that I actually put in this code/cookbook ;)</p>
+        <ul>
+            <li>Time in minutes: total time 1h 5 min</li>
+            <li>Serves: <strong>6</strong> </li>
+     
+            
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+            <tr>
+              <td>
+             egg
+              </td>  
+               </tr>
+              <td>
+             1
+              </td>              
+            <tr>    
+             <td>
+             honey (Optional)
+             </td>
+            
+            <td>
+            ⅓ cup 
+             </td>    
+            </tr>  
+            <tr>
+              <td>
+           peanut butter
+              </td>  
+               <td>
+             ¼ cup 
+              </td>  
+            </tr>    
+                 <td>
+             egg
+              </td>  
+               <td>
+             1
+              </td>              
+            <tr>    
+             <td>
+         cooking oil
+             </td>
+            
+            <td>
+              ¼ cup 
+             </td>    
+            </tr>  
+            <tr>
+              <td>
+            vanilla extract
+              </td>  
+               <td>
+            1 teaspoon
+              </td>  
+             </tr>
+             <tr>
+              <td>
+             shredded carrots
+              </td>
+            <td>
+            1 cup 
+            </td>
+            </tr>
+            <tr>
+            <td>
+             whole wheat or white flour
+            </td>
+            <td>
+            1 cup 
+            </td>
+            </tr>
+            <tr>    
+            <td>
+            baking soda
+            </td>
+            <td>
+            1 teaspoon 
+            </td>      
+            </tr>
+           </tbody>
+          
+    
+    </table>
+    
+    </body>
+             
+    <p><strong>Step 1:</strong> Preheat the oven to 350 degrees F (175 degrees C). Grease a 6-cup ring mold or fluted tube pan.</p>
+    
+    <p><strong>Step 2:</strong> Combine egg, honey, peanut butter, oil, and vanilla in a large bowl; blend well. Stir in carrots until well-combined. Sift together flour and baking soda and fold into carrot mixture. Spoon cake batter into the prepared pan.</p>
+    
+    <p><strong>Step 3:</strong> Bake in the preheated oven until a toothpick inserted in the center comes out clean, about 40 minutes. Let cake cool in the pan for 10 minutes, then turn out onto a wire rack to cool completely.</p>
+ 
+ 
+  <p><em>Source: <a href="https://izzycooking.com/crazy-food-recipes/">several <em> Weird</em>recipes</a></em></p>
+</html>
